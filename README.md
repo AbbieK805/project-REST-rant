@@ -26,4 +26,8 @@ name | string | Name of restaurant
 city | string | City where restaurant is located
 state | string | State where restaurant is located
 cuisines | string | Type of food served at the restaurant
+<<<<<<< HEAD
 pic | string | URL of picture of restaurant
+=======
+pic | string | URL of picture of restaurant
+>>>>>>> 1a07b978fd47abfa5e68539bd6825ec2f38533b2
